@@ -3,7 +3,7 @@
 ## prerequisites
 install instructions ubuntu 22.04
 
-Credits: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04
+Credits: http://expressjs.com/en/starter/generator.html
 ```
 sudo apt update
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash 
@@ -19,7 +19,7 @@ Node must be 14+ for npx
 
 ## creating the app
 ```
-npx create-react-app my-app
-cd my-app
+npx express-generator
+npm install
 npm start
 ```

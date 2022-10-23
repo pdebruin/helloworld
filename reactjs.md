@@ -1,8 +1,7 @@
 # Hello world in react
 
 ## prerequisites
-
-
+[node](./_node.md)
 
 ## creating the app
 ```

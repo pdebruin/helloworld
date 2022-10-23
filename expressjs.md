@@ -1,4 +1,4 @@
-# Hello world in react
+# Hello world in express
 
 ## prerequisites
 [node](./_node.md)

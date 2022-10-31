@@ -1,7 +1,13 @@
 # Hello world in dotnet
 
 ## prerequisites
-install instructions ubuntu 22.04
+[dotnet](./_dotnet.md)
 
 ## creating the app
-dotnet new
+Credits: http://expressjs.com/en/starter/generator.html
+
+```
+dotnet --list-sdks
+dotnet new --list
+dotnet new blazorwasm #example
+```

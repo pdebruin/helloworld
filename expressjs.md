@@ -7,7 +7,7 @@
 Credits: http://expressjs.com/en/starter/generator.html
 
 ```
-npx express-generator
+npx express-generator --view=ejs
 npm install
 npm start
 ```
